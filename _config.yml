@@ -10,6 +10,7 @@ logo: /assets/images/cadquery_logo_dark.svg
 github:
   repository_url: https://github.com/cadquery/cadquery
   repository_name: cadquery
+  repository_nwo: CadQuery/cadquery
   owner_name: the CadQuery organization
   owner_url: https://github.com/cadquery
 
