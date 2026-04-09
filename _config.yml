@@ -3,7 +3,9 @@ url: https://cadquery.github.io
 title: CadQuery
 description: Create parametric CAD models with Python
 
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
+
+logo: /assets/images/cadquery_logo_dark.svg
 
 github:
   repository_url: https://github.com/cadquery/cadquery
